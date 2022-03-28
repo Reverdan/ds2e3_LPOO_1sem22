@@ -1,0 +1,34 @@
+C:\Users\Rever\Documents\Visual Studio 2022\projetos\Soma\Soma\bin\Debug\net6.0-windows\Soma.exe
+C:\Users\Rever\Documents\Visual Studio 2022\projetos\Soma\Soma\bin\Debug\net6.0-windows\Soma.deps.json
+C:\Users\Rever\Documents\Visual Studio 2022\projetos\Soma\Soma\bin\Debug\net6.0-windows\Soma.runtimeconfig.json
+C:\Users\Rever\Documents\Visual Studio 2022\projetos\Soma\Soma\bin\Debug\net6.0-windows\Soma.dll
+C:\Users\Rever\Documents\Visual Studio 2022\projetos\Soma\Soma\bin\Debug\net6.0-windows\Soma.pdb
+C:\Users\Rever\Documents\Visual Studio 2022\projetos\Soma\Soma\obj\Debug\net6.0-windows\Soma.csproj.AssemblyReference.cache
+C:\Users\Rever\Documents\Visual Studio 2022\projetos\Soma\Soma\obj\Debug\net6.0-windows\Soma.csproj.GenerateResource.cache
+C:\Users\Rever\Documents\Visual Studio 2022\projetos\Soma\Soma\obj\Debug\net6.0-windows\Soma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rever\Documents\Visual Studio 2022\projetos\Soma\Soma\obj\Debug\net6.0-windows\Soma.AssemblyInfoInputs.cache
+C:\Users\Rever\Documents\Visual Studio 2022\projetos\Soma\Soma\obj\Debug\net6.0-windows\Soma.AssemblyInfo.cs
+C:\Users\Rever\Documents\Visual Studio 2022\projetos\Soma\Soma\obj\Debug\net6.0-windows\Soma.csproj.CoreCompileInputs.cache
+C:\Users\Rever\Documents\Visual Studio 2022\projetos\Soma\Soma\obj\Debug\net6.0-windows\Soma.dll
+C:\Users\Rever\Documents\Visual Studio 2022\projetos\Soma\Soma\obj\Debug\net6.0-windows\refint\Soma.dll
+C:\Users\Rever\Documents\Visual Studio 2022\projetos\Soma\Soma\obj\Debug\net6.0-windows\Soma.pdb
+C:\Users\Rever\Documents\Visual Studio 2022\projetos\Soma\Soma\obj\Debug\net6.0-windows\Soma.genruntimeconfig.cache
+C:\Users\Rever\Documents\Visual Studio 2022\projetos\Soma\Soma\obj\Debug\net6.0-windows\ref\Soma.dll
+C:\Users\Rever\Documents\Visual Studio 2022\projetos\Soma\Soma\obj\Debug\net6.0-windows\Soma.frmPrincipal.resources
+D:\Documentos\GitHub\ds2e3_LPOO_1sem22\soma construtor\Soma\obj\Debug\net6.0-windows\Soma.csproj.AssemblyReference.cache
+D:\Documentos\GitHub\ds2e3_LPOO_1sem22\soma construtor\Soma\obj\Debug\net6.0-windows\Soma.frmPrincipal.resources
+D:\Documentos\GitHub\ds2e3_LPOO_1sem22\soma construtor\Soma\obj\Debug\net6.0-windows\Soma.csproj.GenerateResource.cache
+D:\Documentos\GitHub\ds2e3_LPOO_1sem22\soma construtor\Soma\obj\Debug\net6.0-windows\Soma.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\GitHub\ds2e3_LPOO_1sem22\soma construtor\Soma\obj\Debug\net6.0-windows\Soma.AssemblyInfoInputs.cache
+D:\Documentos\GitHub\ds2e3_LPOO_1sem22\soma construtor\Soma\obj\Debug\net6.0-windows\Soma.AssemblyInfo.cs
+D:\Documentos\GitHub\ds2e3_LPOO_1sem22\soma construtor\Soma\obj\Debug\net6.0-windows\Soma.csproj.CoreCompileInputs.cache
+D:\Documentos\GitHub\ds2e3_LPOO_1sem22\soma construtor\Soma\obj\Debug\net6.0-windows\Soma.dll
+D:\Documentos\GitHub\ds2e3_LPOO_1sem22\soma construtor\Soma\obj\Debug\net6.0-windows\refint\Soma.dll
+D:\Documentos\GitHub\ds2e3_LPOO_1sem22\soma construtor\Soma\obj\Debug\net6.0-windows\Soma.pdb
+D:\Documentos\GitHub\ds2e3_LPOO_1sem22\soma construtor\Soma\bin\Debug\net6.0-windows\Soma.exe
+D:\Documentos\GitHub\ds2e3_LPOO_1sem22\soma construtor\Soma\bin\Debug\net6.0-windows\Soma.deps.json
+D:\Documentos\GitHub\ds2e3_LPOO_1sem22\soma construtor\Soma\bin\Debug\net6.0-windows\Soma.runtimeconfig.json
+D:\Documentos\GitHub\ds2e3_LPOO_1sem22\soma construtor\Soma\bin\Debug\net6.0-windows\Soma.dll
+D:\Documentos\GitHub\ds2e3_LPOO_1sem22\soma construtor\Soma\bin\Debug\net6.0-windows\Soma.pdb
+D:\Documentos\GitHub\ds2e3_LPOO_1sem22\soma construtor\Soma\obj\Debug\net6.0-windows\Soma.genruntimeconfig.cache
+D:\Documentos\GitHub\ds2e3_LPOO_1sem22\soma construtor\Soma\obj\Debug\net6.0-windows\ref\Soma.dll
