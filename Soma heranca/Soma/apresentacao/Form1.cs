@@ -10,6 +10,14 @@ namespace Soma
             InitializeComponent();
         }
 
+        internal Controle Controle
+        {
+            get => default;
+            set
+            {
+            }
+        }
+
         private void btnSomar_Click(object sender, EventArgs e)
         {
             Controle controle = new Controle(txbNumero1.Text, txbNumero2.Text);
