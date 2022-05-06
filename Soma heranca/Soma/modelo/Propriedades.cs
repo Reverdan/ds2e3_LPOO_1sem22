@@ -8,7 +8,7 @@ namespace Soma.modelo
 {
     internal class Propriedades
     {
-        public String resultado;
+        protected String resultado;
         public String mensagem;
         public String numero1;
         public String numero2;

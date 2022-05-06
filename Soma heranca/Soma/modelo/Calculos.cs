@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Soma.modelo
 {
-    internal class Calculos : Propriedades
+    sealed class Calculos : Propriedades
     {
         public Calculos(double n1, double n2)
         {
