@@ -15,7 +15,15 @@ namespace NumeroPrimo.Modelo
 
         private void Verificar()
         {
-
+            this.Mensagem = "É primo";
+            for (int i = 2; i < (this.Num / 2 + 1); i++)
+            {
+                if (this.Num % i == 0)
+                {
+                    this.Mensagem = "Não é primo";
+                    break;
+                }
+            }
         }
     }
 }
