@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rever\\Documents\\GitHub\\ds2e3_LPOO_1sem22\\NumeroPrimo\\NumeroPrimo\\NumeroPrimo.csproj",
-      "projectName": "NumeroPrimo",
-      "projectPath": "C:\\Users\\Rever\\Documents\\GitHub\\ds2e3_LPOO_1sem22\\NumeroPrimo\\NumeroPrimo\\NumeroPrimo.csproj",
+      "projectUniqueName": "C:\\Users\\Rever\\Documents\\GitHub\\ds2e3_LPOO_1sem22\\Temperatura\\Temperatura\\Temperatura.csproj",
+      "projectName": "Temperatura",
+      "projectPath": "C:\\Users\\Rever\\Documents\\GitHub\\ds2e3_LPOO_1sem22\\Temperatura\\Temperatura\\Temperatura.csproj",
       "packagesPath": "C:\\Users\\Rever\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rever\\Documents\\GitHub\\ds2e3_LPOO_1sem22\\NumeroPrimo\\NumeroPrimo\\obj\\",
+      "outputPath": "C:\\Users\\Rever\\Documents\\GitHub\\ds2e3_LPOO_1sem22\\Temperatura\\Temperatura\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
